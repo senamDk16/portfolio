@@ -1,36 +1,27 @@
 const dataSkills = [
     {
-        id: "1",
-        name: "HTML",
-        value: "90",
+         id: "1",
+        name: "React",
+        value: "80",
     },
     {
         id: "2",
-        name: "CSS",
-        value: "80",
-    },
-    {
-        id: "3",
         name: "JavaScript",
         value: "80",
     },
+    
     {
-        id: "4",
-        name: "Python",
-        value: "70",
-    },
-    {
-        id: "5",
-        name: "JAVA",
-        value: "50",
-    },
-    {
-        id: "6",
+        id: "3",
         name: "NodeJS",
         value: "50",
     },
+        {
+        id: "4",
+        name: "Django",
+        value: "50",
+    },
     {
-        id: "7",
+        id: "5",
         name: "MySql",
         value: "70",
     }
